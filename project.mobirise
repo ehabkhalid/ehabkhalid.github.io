@@ -51,13 +51,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#282828",
+            "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -88,13 +88,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#ed5453"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f17473!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#f28281"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -176,7 +176,7 @@
           },
           "title": "&nbsp;الزهراني للأقمشة",
           "text": "&nbsp;أحصلي على أقمشة حصرية بتصاميم عصرية &nbsp;لمنزلك",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
           "_tags": [
             "Theme"
           ],
@@ -186,6 +186,9 @@
             ".mbr-section-text": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px"
+            },
+            ".btn": {
               "font-size": "16px"
             }
           }
@@ -205,7 +208,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f28281",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -216,7 +219,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -249,10 +252,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x445.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
@@ -271,17 +277,17 @@
               "active": true
             }
           },
-          "title1": "تخفيضاتنا",
-          "subtitle1": "<span style=\"font-style: normal;\"><b>%لدينا تخفيضات تصل إلى 80</b></span>",
+          "title1": "عنا",
+          "subtitle1": "<span style=\"font-style: normal;\"><b>مجموعة الزهراني التجارية لأقمشة الكنب والستائر منذ عام 1990 حتى اليوم..</b></span>",
           "caption1": "",
           "title2": "فروعنا",
           "subtitle2": "<span style=\"font-style: normal;\"><b>أكثر من 36 فرع حول دول مجلس التعاون والعالم العربي</b></span>",
           "caption2": "",
           "title3": "منتجاتنا",
-          "subtitle3": "<span style=\"font-style: normal;\"><b>نقدم إليكم منتجاتنا الحديثة المضادة لنيران الحريق والمضادة للقطرات المياه والمشروبات المختلفة..</b></span>",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>نقدم إليك منتجاتنا الحديثة المضادة لنيران الحريق والمضادة للقطرات المياه والمشروبات المختلفة..</b></span>",
           "caption3": "",
-          "title4": "عنا",
-          "subtitle4": "<span style=\"font-style: normal;\"><b>مجموعة الزهراني التجارية لأقمشة الكنب والستائر منذ عام 1990 حتى اليوم..</b></span>",
+          "title4": "تخفيضاتنا",
+          "subtitle4": "<span style=\"font-style: normal;\"><b>%لدينا تخفيضات تصل إلى 80</b></span>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -289,9 +295,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">للمزيد</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -344,7 +350,7 @@
           },
           "title": "لتواصلك معنا",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">اتصل بنا</a>",
           "form": {
             "action": "ehabkhalid1995@gmail.com",
             "alerts": {
@@ -380,6 +386,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".btn": {
+              "font-size": "18px"
             }
           }
         },
@@ -391,7 +400,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#f28281",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
