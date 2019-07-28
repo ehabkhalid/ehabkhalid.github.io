@@ -54,7 +54,7 @@
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#f28281",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -70,13 +70,13 @@
               "font-size": "23px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f28281"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f28281"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f28281"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -97,7 +97,7 @@
               "background": "#f28281"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f28281",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -284,7 +284,7 @@
           "subtitle2": "<span style=\"font-style: normal;\"><b>أكثر من 36 فرع حول دول مجلس التعاون والعالم العربي</b></span>",
           "caption2": "",
           "title3": "منتجاتنا",
-          "subtitle3": "<span style=\"font-style: normal;\"><b>نقدم إليك منتجاتنا الحديثة المضادة لنيران الحريق والمضادة للقطرات المياه والمشروبات المختلفة..</b></span>",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>نقدم إليك منتجاتنا الحديثة المضادة لنيران الحريق والمضادة لقطرات المياه والمشروبات المختلفة..</b></span>",
           "caption3": "",
           "title4": "تخفيضاتنا",
           "subtitle4": "<span style=\"font-style: normal;\"><b>%لدينا تخفيضات تصل إلى 80</b></span>",

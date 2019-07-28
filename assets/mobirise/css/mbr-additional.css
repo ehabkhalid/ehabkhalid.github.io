@@ -464,15 +464,15 @@ section.form .container {
   font-size: 23px;
 }
 #ext_menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #f28281;
 }
 #ext_menu-0 .close-icon::before,
 #ext_menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #f28281;
 }
 #ext_menu-0 .link,
 #ext_menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #f28281;
 }
 #ext_menu-0 .link {
   font-size: 0.75rem;
@@ -504,7 +504,7 @@ section.form .container {
   background: #f28281;
 }
 #ext_menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #f28281;
   transition: none;
 }
 #ext_menu-0 .bg-color.transparent.opened .link {
